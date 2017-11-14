@@ -1,8 +1,8 @@
 
 from collections import defaultdict
 from math import log, ceil
-import difflib																		#DIKSHANT SAGAR ROLL NO :2017338
-from sets import Set 																#MUKUL KUMAR ROLL NO : 2017350
+import difflib									
+from sets import Set 																
 
 coloumns = dict()
 templst = list()
